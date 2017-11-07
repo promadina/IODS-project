@@ -1,0 +1,16 @@
+---
+title: "New"
+author: "Maria"
+date: "11/7/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+*Something about the course  
+and a link to your course diary*
+https://promadina.github.io/IODS-project/
